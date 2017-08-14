@@ -1,0 +1,5 @@
+/home/den/Загрузки/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/den/CLionProjects/Game2
+-- Found SFML .. in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/den/CLionProjects/Game2/cmake-build-debug
